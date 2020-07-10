@@ -1,0 +1,26 @@
+{
+  "name": "mydaiystatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Lucas Silva",
+  "license": "MIT",
+  "dependencies": {
+    "@auth0/nextjs-auth0": "^0.13.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "firebase-admin": "^8.12.1",
+    "geofirestore": "^3.4.3",
+    "next": "^9.4.0",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
