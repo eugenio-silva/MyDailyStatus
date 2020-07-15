@@ -1,5 +1,5 @@
 # MyDailyStatus
-Projeto feito na semana Fullstack master.
+Projeto feito no curso Fullstack master.
 
 
 
