@@ -8,7 +8,7 @@ Projeto feito no curso **Fullstack master**.
         * Next 
         * Firebase 
         * Tailwind 
-        *React 
+        * React 
         * Express 
         * Axios
         * Auth0
