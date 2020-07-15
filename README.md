@@ -1,3 +1,18 @@
 # MyDailyStatus
 Projeto feito na semana Fullstack master.
-As seguintes stacks foram usadas: Node, Next, Firebase, Tailwind, React.js, Express, Axios
+
+
+
+Stacks: *Node 
+        *Next 
+        *Firebase 
+        *Tailwind 
+        *React 
+        *Express 
+        *Axios
+        *Auth0
+        *dotenv
+        *postCSS
+        
+        
+        <https://www.linkedin.com/in/lucas-silva-b12b281a3/>
