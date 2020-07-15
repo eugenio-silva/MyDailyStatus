@@ -12,8 +12,8 @@ Projeto feito no curso **Fullstack master**.
         * Express 
         * Axios
         * Auth0
-        * dotenv
-        * postCSS
+        * Dotenv
+        * PostCSS
         
         
         
